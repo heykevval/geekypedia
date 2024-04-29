@@ -1,8 +1,7 @@
-baseurl = "/"
+baseurl = "geekypedia.pades.dev/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Geekypedia"
-
 themedir = "themes"
 theme = "papermod"
 # RSS, categories and tags disabled for an easy start
